@@ -1,0 +1,5 @@
+e=int(input('Enter First Number: '))
+print(e)
+f=int (input("Enter second Number: "))
+print(f)
+print(e+f)
